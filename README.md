@@ -24,12 +24,12 @@
 <br>
 <br>
 
-- 🔭 I’m actuly learning malware reverse, cracking and pentest
+- 🔭 I’m actually learning malware reverse, cracking and pentest
 
 <br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/psychothic](https://github.com/psychothic)
+- 👨‍💻 All of my projects are available at [psychothic](https://github.com/psychothic)
 
 <br>
 
-- 📝 My Twitter [https://twitter.com/lafifiche](https://twitter.com/lafifiche)
+- 📝 My Twitter [Lafifiche](https://twitter.com/lafifiche)
