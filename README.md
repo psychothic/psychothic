@@ -3,7 +3,7 @@
 <h3 align="center">I'm french young reverse engineering learner and practicer</h3>
 
 <p align="left">
-    <h3 align="center">My latest project was -> <a href="https://github.com/psychothic/doenerium-broken"> How to Decompile doenerium grabber</a></h3>
+    <h3 align="center">My main hobby is -> Learn and Practice Reverse Engineering</a></h3>
 </p>
 
 <p align="left">
